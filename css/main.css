@@ -23,5 +23,10 @@
     height: 100%;
     background-size: cover;
   }
-  
+  .navbarwhite{
+    background-color: white;
+  }
+  .backgroundgreen{
+    background-color: forestgreen;
+  }
   
